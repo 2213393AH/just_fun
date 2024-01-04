@@ -94,13 +94,13 @@ div.beloved:after {
   display: flex;
   position: absolute;
   white-space: pre;
-  content: "Thank you \a Love";
+  content: "Thank You \a So Much";
 
   text-align: center;
   line-height: 1.1;
   color: #ffffff;
   opacity: 0.38;
-  font-family: "Architects Daughter", cursive;
+  font-family: "Architects Daughter", ;
   font-size: 12vmin;
 }
 
